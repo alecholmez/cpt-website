@@ -1,0 +1,39 @@
+body {
+    font-family: 'Nunito';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lato' !important;
+    font-weight: 900 !important;
+}
+
+.uk-heading-hero {
+    font-family: 'Lato';
+    font-weight: 400 !important;
+}
+
+.uk-heading {
+    font-famiy: 'Lato';
+}
+
+.video {
+    min-width: 100%;
+    min-height: 100%;
+    right: 0;
+    bottom: 0;
+    width: auto;
+    height: auto;
+    padding: none;
+    z-index: -100;
+    position: fixed;
+}
+
+.uk-section-transparent {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.map {
+    min-width: 100%;
+    width: auto;
+    height: 300px;
+}

@@ -5,6 +5,7 @@ import React from 'react';
 import Masthead from './Masthead';
 import Media from './Media';
 import Social from './Social';
+import Marketing from './Marketing';
 
 class AppComponent extends React.Component {
   render() {
@@ -12,6 +13,7 @@ class AppComponent extends React.Component {
         <div>
             <Masthead />
             <Media />
+            <Marketing />
             <Social />
         </div>
     );

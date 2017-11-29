@@ -26,27 +26,8 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
 }
 
-/* Portrait */
-@media only screen
-and (min-device-width : 414px)
-and (max-device-width : 736px)
-and (orientation : portrait) {
-    .video {
-        transform: scale(4, 4);
-    }
-}
-
-@media only screen
-and (min-device-width : 375px)
-and (max-device-width : 667px)
-and (orientation : portrait) {
-    .video {
-        transform: scale(4, 4);
-    }
-}
-
-.uk-section-transparent {
-    background-color: rgba(0, 0, 0, 0);
+.masthead-background {
+    background-image: url("https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e35/22277681_126159258132718_875798154400759808_n.jpg");
 }
 
 .map {

@@ -27,7 +27,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .masthead-background {
-    background-image: url("https://scontent-iad3-1.cdninstagram.com/t51.2885-15/e35/22277681_126159258132718_875798154400759808_n.jpg");
+    background-image: url("../images/header.jpg");
+}
+
+.audi-background {
+    background-image: url("../images/audi.jpg");
 }
 
 .map {
